@@ -1,6 +1,7 @@
 # こんにちは！集約さんです！
 
 # 集約さんでできること
+![demo](https://github.com/syuyakusan/images/集約さん.gif)
 
 - 大人数の日程集約を素早く・見やすく・頭を使わずにできます。
 - スプレッドシートとGoogle Formsで回答可能
