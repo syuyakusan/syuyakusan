@@ -16,7 +16,7 @@
 1. 集約さんを作りたいフォルダをGoogle Drive上に作り、syuyakusan@gmail.comを編集者として追加する
 2. 集約さんインストーラーでボタンを押し、誘導に従って集約さんをインストールする
 
-<img src="images/editPermission.gif"　width="300"/>
+<img src="images/editPermission.gif" width="300">
 
 ### 初期設定をする
 
