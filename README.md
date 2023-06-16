@@ -1,7 +1,7 @@
 # こんにちは！集約さんです！
 
 # 集約さんでできること
-<img src="images/syuyaku.gif" width="400">
+<img src="images/syuyaku.gif" width="300">
 
 - 大人数の日程集約を素早く・見やすく・頭を使わずにできます。
 - スプレッドシートとGoogle Formsで回答可能
