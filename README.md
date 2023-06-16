@@ -12,7 +12,7 @@
 - 所属するグループが多くても、一括で予定を伝えることができます。(※LINE botを利用した場合)
 
 # 概要
-<img src="images/overview.png">
+<img src="images/overviewFig.png">
 
 # 準備
 
