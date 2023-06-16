@@ -16,7 +16,7 @@
 1. 集約さんを作りたいフォルダをGoogle Drive上に作り、syuyakusan@gmail.comを編集者として追加する
 2. 集約さんインストーラーでボタンを押し、誘導に従って集約さんをインストールする
 
-  <img src="images/editPermission.gif" width="300"> <img src="images/install.gif" width="300">
+<img src="images/editPermission.gif" width="300"> <img src="images/install.gif" width="300">
 
 ### 初期設定をする
 
@@ -74,7 +74,7 @@
 1. 個人トークで「日程回答」を送信するか、画面下部の「日程回答」ボタン(スマホ限定)を押します。
 2. LINE botの案内に従って回答します。
 3. 連携してあるすべてのスプレッドシートに反映されます。
-   <img src="images/answer.gif" width="300">
+<img src="images/answer.gif" width="300">
 
 ## 回答状況を確認する
 
@@ -85,7 +85,7 @@
 ### LINE botに聞く
 
 グループトークでLINE botの案内に従って話しかけると、回答状況を教えてくれます。
-   <img src="images/status.gif" width="300">
+<img src="images/status.gif" width="300">
 
 ## 日程を集約する
 
@@ -96,4 +96,4 @@
 ### LINE botにお願いする
 
 グループトークでLINE botの案内に従って話しかけると、日程集約を行い、全員の予定があった日時を結果を教えてくれます。その他の日時についての確認やGoogle カレンダー上の予定との比較はスプレッドシートから行って下さい。
-    <img src="images/syuyaku.gif" width="300">
+<img src="images/syuyaku.gif" width="300">
