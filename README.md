@@ -22,8 +22,7 @@
 
 ※必ずPCで行ってください
 
-1. 「初期設定」ボタンを押して、誘導に従って個人シートとGoogle Formsの作成をします
-  <img src="images/initialize.gif" width="300">
+1. 「初期設定」ボタンを押して、誘導に従って個人シートとGoogle Formsの作成をします <img src="images/initialize.gif" width="300">
 
 ### 回答をお願いする
 
