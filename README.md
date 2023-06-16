@@ -9,9 +9,11 @@
     - Google Spreadsheet の編集
     - Google Forms への回答
     - LINE bot とのチャット
-- 所属するグループが多くても、一括で予定を伝えることができます。(LINE botを利用した場合)
+- 所属するグループが多くても、一括で予定を伝えることができます。(※LINE botを利用した場合)
 
 # 準備
+
+※必ずPCで行ってください
 
 ## 集約さんをインストールする
 
@@ -21,8 +23,6 @@
 <img src="images/editPermission.gif" width="300"> <img src="images/install.gif" width="300">
 
 ## 初期設定をする
-
-※必ずPCで行ってください
 
 1. 「初期設定」ボタンを押して、誘導に従って個人シートとGoogle Formsの作成をします
 
