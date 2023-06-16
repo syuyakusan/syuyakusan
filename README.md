@@ -22,13 +22,12 @@
 
 ※必ずPCで行ってください
 
-1. 「初期設定」ボタンを押して、誘導に従って個人シートとGoogle Formsの作成をします <img src="images/initialize.gif" width="300">
+1. 「初期設定」ボタンを押して、誘導に従って個人シートとGoogle Formsの作成をします
 
 ### 回答をお願いする
 
 1. 「共有する」フィールドの「リンク集」のテキストをLINEグループなどに貼り付け、メンバーにスプレッドシートとGoogle Formsを共有します
 2. メンバーに回答をお願いします
-   <img src="images/links.gif" width="300">
 
 ### LINEと連携する(オプション)
 
@@ -43,7 +42,8 @@
     2. 連携に成功すると、LINE botに話しかけるだけで日程回答ができるようになります。複数のスプレッドシートを連携した場合は、一度の日程回答ですべてのスプレッドシートに反映されます。
 
 ※グループトークと個人トークの両方で連携する必要があります
-  <img src="images/groupLink.gif" width="300">
+
+<img src="images/groupLink.gif" width="300">
 
 グループトーク/個人トークでできること
 
@@ -85,7 +85,7 @@
 ### LINE botに聞く
 
 グループトークでLINE botの案内に従って話しかけると、回答状況を教えてくれます。
- <img src="images/status.gif" width="300">
+   <img src="images/status.gif" width="300">
 
 ## 日程を集約する
 
@@ -96,4 +96,4 @@
 ### LINE botにお願いする
 
 グループトークでLINE botの案内に従って話しかけると、日程集約を行い、全員の予定があった日時を結果を教えてくれます。その他の日時についての確認やGoogle カレンダー上の予定との比較はスプレッドシートから行って下さい。
- <img src="images/syuyaku.gif" width="300">
+    <img src="images/syuyaku.gif" width="300">
