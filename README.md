@@ -2,7 +2,9 @@
 集約さんはGoogle SpreadSheet, Google Forms, LINEを使用した、日程集約webアプリケーションです。
 
 # できること
-<img src="images/syuyaku.gif" width="300">　<img src="images/summarized.png" width="590">
+<img src="images/dashboard.png" width="590">
+<img src="images/summarized.png" width="590">
+<img src="images/syuyaku.gif" width="300">
 
 - 人数が多くても、素早く・悩まず・わかりやすく日程集約を行うことが出来ます。
 - 3種類のインターフェイスから、使用するデバイスに適したものを選択可能です。
