@@ -1,7 +1,7 @@
 # はじめまして！集約さんです！
 集約さんはGoogle SpreadSheet, Google Forms, LINEを使用した、日程集約webアプリケーションです。
 
-<img src="images/dashboard.png" width="590">
+<img src="images/home.png" width="590">
 
 # できること
 <img src="images/summarized.png" width="590">
