@@ -26,7 +26,7 @@
 ## 集約さんをインストールする
 
 1. 集約さんを作りたいフォルダをGoogle Drive上に作り、syuyakusan@gmail.comを編集者として追加します。
-2. [集約さんインストーラー](https://docs.google.com/spreadsheets/d/15q-g6N86hfvml16AOEiiuSz7uMsxZj7Px2XBHRHtYso/edit?usp=sharing)でボタンを押し、案内に従って集約さんをインストールします。承認を求められた場合は[こちらの方法](https://github.com/syuyakusan#%E6%89%BF%E8%AA%8D%E3%81%8C%E5%BF%85%E8%A6%81%E3%81%A8%E8%A1%A8%E7%A4%BA%E3%81%95%E3%82%8C%E3%81%9F)で承認してください。
+2. [集約さんインストーラー](https://docs.google.com/spreadsheets/d/15q-g6N86hfvml16AOEiiuSz7uMsxZj7Px2XBHRHtYso/edit?usp=sharing)でボタンを押し、案内に従って集約さんをインストールします。承認を求められた場合は[こちらの方法](#承認が必要と表示された)で承認してください。
 3. 指定したフォルダに「集約さん-ファイル名を変更してください」というファイルが作成されていれば完了です。
 
 <img src="images/editPermission.gif" width="300"> <img src="images/install.gif" width="300">
