@@ -1,4 +1,5 @@
-# こんにちは！集約さんです！
+### こんにちは！集約さんです！
+集約さんはGoogle SpreadSheet, Google Forms, LINEを使用した、日程集約webアプリケーションです。
 
 # 集約さんでできること
 <img src="images/syuyaku.gif" width="300">
