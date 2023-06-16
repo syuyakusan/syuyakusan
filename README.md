@@ -9,6 +9,7 @@
     - Google Spreadsheet の編集
     - Google Forms への回答
     - LINE bot とのチャット
+- 所属するグループが多くても、一括で予定を伝えることができます。(LINE botを利用した場合)
 
 # 準備
 
