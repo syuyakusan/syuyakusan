@@ -3,7 +3,7 @@
 
 <img src="images/home.png" width="590">
 
-**※現時点ではMUSICA内のみでの利用を想定しています。外部で仕様した際の不利益等については当方は一切の責任を負いません。**
+**※現時点ではMUSICA内のみでの利用を想定しています。外部での使用も可能ですが、その際に発生した不利益等について当方は一切の責任を負いません。**
 # できること
 <img src="images/summarized.png" width="590">
 <img src="images/syuyaku.gif" width="300">
