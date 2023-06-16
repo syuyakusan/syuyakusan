@@ -7,8 +7,6 @@
 - スプレッドシートとGoogle Formsで回答可能
 - 公式アカウントをフォローすれば、LINE botとの会話だけで日程集約ができます。
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29fe0f55-cdcd-43da-b4d9-b4bbc473073c/Untitled.png)
-
 # 使い方
 
 ## はじめにやること
@@ -17,6 +15,7 @@
 
 1. 集約さんを作りたいフォルダをGoogle Drive上に作り、syuyakusan@gmail.comを編集者として追加する
 2. 集約さんインストーラーでボタンを押し、誘導に従って集約さんをインストールする
+<img src="images/editPermission.gif" title="フォルダに編集者を追加する"　width="300">
 
 ### 初期設定をする
 
