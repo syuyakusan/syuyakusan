@@ -14,6 +14,7 @@
 
 <img src="images/summarized.png" width="590">
 <img src="images/syuyaku.gif" width="300">
+
 # 概要
 - **スプレッドシートが本体です**。スプレッドシートのみでの運用も可能ですが、フォームやLINE botを使用することで利便性が格段に上がります。
 - グループ1つにつき専用のスプレッドシートとフォームが1つずつ作成されます。
@@ -29,7 +30,7 @@
 ## 集約さんをインストールする
 
 1. 集約さんを作りたいフォルダをGoogle Drive上に作り、syuyakusan@gmail.comを編集者として追加します。
-2. [集約さんインストーラー](https://docs.google.com/spreadsheets/d/15q-g6N86hfvml16AOEiiuSz7uMsxZj7Px2XBHRHtYso/edit?usp=sharing)でボタンを押し、案内に従って集約さんをインストールします。承認を求められた場合は[こちらの方法](#承認が必要と表示された)で承認してください。
+2. [集約さんインストーラー](https://docs.google.com/spreadsheets/d/15q-g6N86hfvml16AOEiiuSz7uMsxZj7Px2XBHRHtYso/edit?usp=sharing)でボタンを押し、案内に従って集約さんをインストールします。承認を求められた場合は[こちらの方法](#承認が必要と表示された)で承認してから再度ボタンを押して下さい。
 3. 指定したフォルダに「集約さん-ファイル名を変更してください」というファイルが作成されていれば完了です。
 
 <img src="images/editPermission.gif" width="300"> <img src="images/install.gif" width="300">
