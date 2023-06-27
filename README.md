@@ -173,3 +173,10 @@ Copyright 2023 Hiroki Enokiya
 Released under the MIT license 
 
 https://opensource.org/license/mit/
+
+# Release Notes
+
+## v1.0.0
+
+2023/06/27
+- 正式リリース
